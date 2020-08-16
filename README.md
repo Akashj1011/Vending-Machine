@@ -17,6 +17,8 @@
 
 *input.json: Input file in resource folder.
 
+*Test Classes(src/java/test): BeverageMakerTest, VendingMachineImplTest, VendingMachineServiceTest
+
 # Flow 
 1. Starts loading data from the input file.
 
